@@ -248,8 +248,6 @@ Mobile app - iOS/Android version
 
 Cloud deployment - AWS/Azure/GCP
 
-Hindi/Urdu UI - Local language support
-
 🤝 Contributing
 Contributions are welcome! Please follow these steps:
 
@@ -265,13 +263,6 @@ Open Pull Request
 
 📄 License
 This project is licensed under the MIT License - see LICENSE file for details.
-
-👨‍💻 Author
-Your Name
-
-GitHub: @yourusername
-
-Email: your.email@example.com
 
 🙏 Acknowledgments
 PyTorch team for deep learning framework
